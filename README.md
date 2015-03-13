@@ -32,6 +32,6 @@ categories: 技术
 
 4.博客写好提交。
 
-5.点pull Request,之后参考pullRequest的使用:[](https://github.com/jirengu/recommend/blob/master/README.md)
+5.点pull Request,之后参考pullRequest的使用:[https://github.com/jirengu/recommend/blob/master/README.md](https://github.com/jirengu/recommend/blob/master/README.md)
 
 6.我这边账号收到请求后合并代码，自动提交到网站
