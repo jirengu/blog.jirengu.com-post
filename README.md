@@ -1,2 +1,2 @@
-# blog.jirengu.com-post
-blog.jirengu.com提交的文章
+# 协作式博客使用说明
+
