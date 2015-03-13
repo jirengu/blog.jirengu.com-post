@@ -1,7 +1,6 @@
 title: "github协作博客使用说明"
-date: 2015-03-10 00:55:55
 tags: 使用说明
-categories: 
+categories: 技术
 ---
 ## 这是什么
 这是一个多人协作博客的博客库，线上博客展示地址为：http://blog.jirengu.com
